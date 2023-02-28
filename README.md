@@ -16,6 +16,6 @@ We offer the following IT services:
 
 # Contact Us
 
-If you need IT support, please contact us me on discord TimNotHere#2611 📧. We offer prompt, reliable, and cost-effective solutions to all your IT problems.
+If you need IT support, please contact us me on discord [TimNotHere#2611 📧](https://discordapp.com/users/813551216906600490). We offer prompt, reliable, and cost-effective solutions to all your IT problems.
 
 Thank you for choosing Tims Tech! 👍
