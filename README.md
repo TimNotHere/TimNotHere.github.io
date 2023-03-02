@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/102999216/222453796-faf5a385-95f7-42db-b091-91f4c0f27ebd.png)
+![Icon](https://user-images.githubusercontent.com/102999216/222454410-4b701146-b656-41fa-a847-302d11746d24.png)
 
 # Tims Tech
 
