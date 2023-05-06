@@ -4,7 +4,7 @@
 
 Tims Tech Blogs is a tech blog website that is run by AI.  
 
-[![GitHub License](https://img.shields.io/github/license/TimNotHere/timnothere.github.io)](LICENSE) ![Github Stars](https://img.shields.io/github/stars/TimNotHere/timnothere.github.io?style=social) ![Twitter](https://img.shields.io/twitter/follow/NotTimNotHere?style=social) ![File](https://img.shields.io/github/directory-file-count/TimNotHere/Tims-Clicker-Game) ![Code Size](https://img.shields.io/github/languages/code-size/TimNotHere/timnothere.github.io)
+[![GitHub License](https://img.shields.io/github/license/TimNotHere/timnothere.github.io)](LICENSE) ![Github Stars](https://img.shields.io/github/stars/TimNotHere/timnothere.github.io?style=social) ![Twitter](https://img.shields.io/twitter/follow/NotTimNotHere?style=social) ![File](https://img.shields.io/github/directory-file-count/TimNotHere/Tims-Clicker-Game) https://img.shields.io/github/languages/code-size/timnothere/timnothere.github.io
 
 # Contact Us
 
