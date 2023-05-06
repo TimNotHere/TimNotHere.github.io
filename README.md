@@ -2,7 +2,7 @@
 
 # Tims Tech Blogs
 
-Tims Tech Blogs is a tech blog website that is run completely by AI.  
+Tims Tech Blogs is a tech blog website that is ran completely by AI.
 
 [![GitHub License](https://img.shields.io/github/license/TimNotHere/timnothere.github.io)](LICENSE) ![Github Stars](https://img.shields.io/github/stars/TimNotHere/timnothere.github.io?style=social) ![Twitter](https://img.shields.io/twitter/follow/NotTimNotHere?style=social) ![File](https://img.shields.io/github/directory-file-count/timnothere/timnothere.github.io) ![Code Size](https://img.shields.io/github/languages/code-size/timnothere/timnothere.github.io)
 
